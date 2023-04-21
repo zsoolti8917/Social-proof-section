@@ -95,9 +95,8 @@ body {
     font-weight: var(--fw-base);
     font-size: 15px;
     color: var(--clr-neutral-500);
-    background-color: var(--clr-neutral-100);
+   /* background-color: var(--clr-neutral-100);*/
     margin: 1.5rem;
-    
 
     
 }
@@ -239,7 +238,7 @@ body {
   @media screen and (min-width: 1024px) {
     .container{
         grid-template-columns: 1fr 1fr;
-        max-width: 85vw;
+        max-width: 1080px;
         max-height: 80vh;
     }
 
@@ -295,7 +294,7 @@ body{
 }
 
 .header{
-    margin-right: 10rem;
+    margin-right: 5rem;
     text-align: left;
     
 }
