@@ -224,9 +224,15 @@ body {
     content: close-quote;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1024px) {
     body {
       padding-bottom: 3rem;
+      display: grid;
+    place-items: center;
+    }
+
+    .container{
+        max-width: 550px;
     }
   }
 
@@ -263,6 +269,8 @@ body {
     .ratings .rating:nth-child(2) {
         transform: translateX(-3rem);
       }
+      
+
 
     .rating{
         display: flex;
@@ -271,6 +279,7 @@ body {
         flex-direction: row;
         gap: 2rem;
         margin-left: 1rem;
+        
         
     }
 
