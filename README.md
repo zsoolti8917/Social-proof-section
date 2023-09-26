@@ -29,11 +29,12 @@ Users should be able to:
 ### Screenshot
 
 Finished project on a 1440px screen
-![Finished project on 1440px](solution/PC%20solution.png)
+![Finished project on 1440px]
+
 
 Finished project on a 375px screen
 <br />
-![Finished project on 375px](solution/Phone%20solution.png)
+![Finished project on 375px]
 
 ### Links
 
